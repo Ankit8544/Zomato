@@ -3,7 +3,7 @@
 A comprehensive Power BI dashboard analyzing Zomato's sales, user behavior, and city-wise performance from 2017 to 2020. Gain actionable insights into sales trends, customer demographics, and performance metrics across 822+ cities.
 
 ### **Live Link** 🔗
-[View the Dashboard](https://app.powerbi.com/groups/me/reports/2473f61a-2030-442b-8a8e-413187b4928f/cd70b4f1c5401e6920d5?experience=power-bi)
+[View the Dashboard](https://app.powerbi.com/reportEmbed?reportId=2473f61a-2030-442b-8a8e-413187b4928f&autoAuth=true&ctid=5eafb13a-8bcd-462a-9e16-58810b6f2460)
 
 ---
 
